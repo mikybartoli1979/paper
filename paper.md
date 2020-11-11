@@ -11,4 +11,7 @@ on Booking.com (Wang and Wright, 2020).
 The issue has been studied also by Ivaldi et al (2020), Hunold et al. (2018) and Cazaubiel et al. (2019). 
 Price parity clauses can have an anticompetitive effects. 
 New and more efficient OTAs cannot be competitive, 
-as Booking.com always gets the lowest price for a hotel room.
+as Booking.com always gets the lowest price for a hotel room. 
+This is a huge problem for antitrust authorities in the EU. 
+For this reason they decided to ban price parity clauses.
+
