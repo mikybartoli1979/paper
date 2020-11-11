@@ -18,3 +18,8 @@ as Booking.com always gets the lowest price for a hotel room.
 #Simulations
 We simulate the impact of price parity clauses on hotel prices on
 Booking.com, Expedia, and the hotels direct channel.
+
+#Methodology
+We use a D-in-D methodology (Angrist and Pischke, 2008) to evaluate the effect of 
+banning price parity clauses in France, by focusing on prices of hotel in 
+Corsica (France) and Sardinia (italy).

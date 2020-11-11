@@ -1,3 +1,4 @@
+Angrist and Pischke (2008), Mostly harmless econometrics.
 Wang and Wright (2020), Platform showrooming, Rand Journal of Economics.
 Ivaldi et al. (2020), From wide to narrow price parity clauses, CEPR Discussion paper.
 Cazaubiel et al. (2019), OTA-hotel substitution, International Journal of Industrial Organization.
