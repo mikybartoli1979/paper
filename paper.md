@@ -1,5 +1,5 @@
 # Title 
-Price parity clause on Booking.com
+Quasi-experimental evidence on Price parity clauses on Booking.com
 
 # Author
 Carlo Reggiani
