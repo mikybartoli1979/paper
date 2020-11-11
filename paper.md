@@ -31,3 +31,6 @@ Figures go in this section.
 We have made a fantastic new analysis of the elimination of price parity clauses.
 Consumers and hotels gain from their elimination.
 Nevertheless, data limitations do not allow to perform a full welfare analysis.
+
+#Acknowledgements 
+We would like to thank EU funding for supporting this project.
