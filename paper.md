@@ -1,8 +1,10 @@
 # Title 
-Quasi-experimental evidence on Price parity clauses on Booking.com
+
+Quasi-experimental evidence and simulations on Price parity clauses on Booking.com
 
 # Author
 Carlo Reggiani
+John Smith
 
 # Introduction
 Booking.com is a dominant platform allowing consumers to find and compare hotel rooms.
@@ -12,3 +14,7 @@ The issue has been studied also by Ivaldi et al (2020), Hunold et al. (2018) and
 Price parity clauses can have an anticompetitive effects. 
 New and more efficient OTAs cannot be competitive, 
 as Booking.com always gets the lowest price for a hotel room.
+
+#Simulations
+We simulate the impact of price parity clauses on hotel prices on
+Booking.com, Expedia, and the hotels direct channel.
