@@ -23,3 +23,6 @@ Booking.com, Expedia, and the hotels direct channel.
 We use a D-in-D methodology (Angrist and Pischke, 2008) to evaluate the effect of 
 banning price parity clauses in France, by focusing on prices of hotel in 
 Corsica (France) and Sardinia (italy).
+
+#Figures 
+Figures go in this section.
