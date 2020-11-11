@@ -1,8 +1,9 @@
 # Title 
-Price parity clause on Booking.com
+Simulations of Price parity clause on Booking.com
 
 # Author
 Carlo Reggiani
+John Smith
 
 # Introduction
 Booking.com is a dominant platform allowing consumers to find and compare hotel rooms.
