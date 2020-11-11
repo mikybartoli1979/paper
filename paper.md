@@ -6,6 +6,9 @@ Quasi-experimental evidence and simulations on Price parity clauses on Booking.c
 John Smith, University of Somewhere Else
 Carlo Reggiani, University of Manchester
 
+#Abstract
+This paper does not make much sense. Does it?
+
 # Introduction
 Booking.com is a dominant platform allowing consumers to find and compare hotel rooms.
 The platform imposes Price Parity Clauses by which hotels commit to post the best price
