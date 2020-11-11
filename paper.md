@@ -3,8 +3,8 @@
 Quasi-experimental evidence and simulations on Price parity clauses on Booking.com
 
 # Author
-Carlo Reggiani
-John Smith
+Carlo Reggiani, University of Manchester
+John Smith, University of Somewhere Else
 
 # Introduction
 Booking.com is a dominant platform allowing consumers to find and compare hotel rooms.
