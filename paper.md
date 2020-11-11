@@ -26,3 +26,8 @@ Corsica (France) and Sardinia (italy).
 
 #Figures 
 Figures go in this section.
+
+#Conclusions
+We have made a fantastic new analysis of the elimination of price parity clauses.
+Consumers and hotels gain from their elimination.
+Nevertheless, data limitations do not allow to perform a full welfare analysis.
